@@ -51,6 +51,40 @@ https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtu
 
 **Describe the capabilities of Microsoft identity and access management solutions:**
 
+https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis
+
+https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-hybrid-identity
+
+https://docs.microsoft.com/en-us/azure/active-directory/external-identities/what-is-b2b
+
+https://docs.microsoft.com/en-us/azure/active-directory-b2c/overview
+
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-authentication-methods
+
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/overview-authentication
+
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-sspr-howitworks
+
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-password-ban-bad
+
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks
+
+https://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-overview
+
+https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview
+
+https://docs.microsoft.com/en-us/azure/active-directory/roles/custom-overview
+
+https://docs.microsoft.com/en-us/azure/active-directory/governance/identity-governance-overview
+
+https://docs.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-overview
+
+https://docs.microsoft.com/en-us/azure/active-directory/governance/access-reviews-overview
+
+https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-configure
+
+https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/overview-identity-protection
+
 **Describe the capabilities of Microsoft Security solutions:**
 
 **Describe the capabilities of Microsoft compliance solutions:**
