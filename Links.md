@@ -15,8 +15,12 @@ https://docs.microsoft.com/en-us/learn/paths/power-plat-fundamentals/
 
 
 More helpful information directly from Microsoft, divided into the functional groups (Skills measured)!
+---------------
 
-Describe the concepts of security, compliance, and identity
-Describe the capabilities of Microsoft identity and access management solutions
-Describe the capabilities of Microsoft Security solutions
-Describe the capabilities of Microsoft compliance solutions
+**Describe the concepts of security, compliance, and identity:**
+
+**Describe the capabilities of Microsoft identity and access management solutions:**
+
+**Describe the capabilities of Microsoft Security solutions:**
+
+**Describe the capabilities of Microsoft compliance solutions:**
