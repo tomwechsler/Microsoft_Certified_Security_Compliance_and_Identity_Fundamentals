@@ -11,8 +11,13 @@ https://docs.microsoft.com/en-us/certifications/resources/sc-900-sample-question
 Microsoft Learn:
 ----------------
 
-https://docs.microsoft.com/en-us/learn/paths/power-plat-fundamentals/
+https://docs.microsoft.com/en-us/learn/paths/describe-concepts-of-security-compliance-identity/
 
+https://docs.microsoft.com/en-us/learn/paths/describe-capabilities-of-microsoft-identity-access/
+
+https://docs.microsoft.com/en-us/learn/paths/describe-capabilities-of-microsoft-security-solutions/
+
+https://docs.microsoft.com/en-us/learn/paths/describe-capabilities-of-microsoft-compliance-solutions/
 
 More helpful information directly from Microsoft, divided into the functional groups (Skills measured)!
 ---------------
