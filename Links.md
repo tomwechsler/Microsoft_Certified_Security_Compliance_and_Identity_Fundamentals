@@ -87,6 +87,18 @@ https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/over
 
 **Describe the capabilities of Microsoft Security solutions:**
 
+https://docs.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview
+
+https://docs.microsoft.com/en-us/azure/ddos-protection/ddos-protection-overview
+
+https://docs.microsoft.com/en-us/azure/firewall/overview
+
+https://docs.microsoft.com/en-us/azure/bastion/bastion-overview
+
+https://docs.microsoft.com/en-us/azure/web-application-firewall/overview
+
+https://docs.microsoft.com/en-us/azure/security/fundamentals/encryption-overview
+
 **Describe the capabilities of Microsoft compliance solutions:**
 
 more coming soon!
