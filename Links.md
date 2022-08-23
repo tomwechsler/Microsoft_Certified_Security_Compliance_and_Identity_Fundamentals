@@ -99,6 +99,14 @@ https://docs.microsoft.com/en-us/azure/web-application-firewall/overview
 
 https://docs.microsoft.com/en-us/azure/security/fundamentals/encryption-overview
 
+https://docs.microsoft.com/en-ca/azure/defender-for-cloud/defender-for-cloud-introduction
+
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/secure-score-security-controls
+
+https://docs.microsoft.com/en-ca/azure/defender-for-cloud/enhanced-security-features-overview
+
+https://docs.microsoft.com/en-us/security/benchmark/azure/security-baselines-overview
+
 **Describe the capabilities of Microsoft compliance solutions:**
 
 more coming soon!
