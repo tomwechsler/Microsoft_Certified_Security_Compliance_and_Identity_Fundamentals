@@ -119,6 +119,20 @@ https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/micros
 
 https://docs.microsoft.com/en-us/defender-cloud-apps/what-is-defender-for-cloud-apps
 
+https://docs.microsoft.com/en-us/microsoft-365/security/defender/microsoft-365-defender
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender/microsoft-secure-score
+
+https://docs.microsoft.com/en-us/microsoft-365/admin/activity-reports/activity-reports
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender/incidents-overview
+
+https://docs.microsoft.com/en-us/mem/intune/fundamentals/what-is-intune
+
+https://docs.microsoft.com/en-us/mem/intune/protect/endpoint-security
+
+https://docs.microsoft.com/en-us/mem/endpoint-manager-overview
+
 **Describe the capabilities of Microsoft compliance solutions:**
 
 more coming soon!
