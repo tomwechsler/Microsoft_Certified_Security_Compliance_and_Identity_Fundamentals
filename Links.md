@@ -107,6 +107,18 @@ https://docs.microsoft.com/en-ca/azure/defender-for-cloud/enhanced-security-feat
 
 https://docs.microsoft.com/en-us/security/benchmark/azure/security-baselines-overview
 
+https://docs.microsoft.com/en-in/azure/sentinel/overview
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender/microsoft-365-defender
+
+https://docs.microsoft.com/en-us/defender-for-identity/what-is
+
+https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/defender-for-office-365
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/microsoft-defender-endpoint
+
+https://docs.microsoft.com/en-us/defender-cloud-apps/what-is-defender-for-cloud-apps
+
 **Describe the capabilities of Microsoft compliance solutions:**
 
 more coming soon!
