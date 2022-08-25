@@ -135,4 +135,16 @@ https://docs.microsoft.com/en-us/mem/endpoint-manager-overview
 
 **Describe the capabilities of Microsoft compliance solutions:**
 
+https://docs.microsoft.com/en-us/microsoft-365/compliance/microsoft-365-compliance-center
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/compliance-manager
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/compliance-score-calculation
+
+https://privacy.microsoft.com/en-US/
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/get-started-with-service-trust-portal
+
+https://docs.microsoft.com/en-us/azure/compliance/
+
 more coming soon!
