@@ -161,11 +161,30 @@ https://docs.microsoft.com/en-us/microsoft-365/compliance/records-management
 
 https://docs.microsoft.com/en-us/microsoft-365/compliance/dlp-learn-about-dlp
 
+https://docs.microsoft.com/en-us/microsoft-365/compliance/insider-risk-solution-overview
 
+https://docs.microsoft.com/en-us/microsoft-365/compliance/communication-compliance-solution-overview
 
+https://docs.microsoft.com/en-us/microsoft-365/compliance/information-barriers-solution-overview
 
+https://docs.microsoft.com/en-us/microsoft-365/compliance/privileged-access-management
 
+https://docs.microsoft.com/en-us/microsoft-365/compliance/customer-lockbox-requests
 
+https://docs.microsoft.com/en-us/microsoft-365/compliance/ediscovery
 
+https://docs.microsoft.com/en-us/microsoft-365/compliance/search-for-content
 
+https://docs.microsoft.com/en-us/microsoft-365/compliance/get-started-core-ediscovery
 
+https://docs.microsoft.com/en-us/microsoft-365/compliance/overview-ediscovery-20
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/advanced-audit
+
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources
+
+https://docs.microsoft.com/en-us/azure/governance/blueprints/overview
+
+https://docs.microsoft.com/en-us/azure/governance/policy/overview
